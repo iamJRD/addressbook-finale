@@ -1,31 +1,31 @@
-# Address Book
+# Address Book (Finale)
 
-#### This application builds an address book to store information about various contacts that the user has made.  
-#### January 26, 2016
+#### By: Jared Beckler | Epicodus | January 2016
 
-#### By Molly Curtin and Jared Beckler
+This project is further exploration of HTML/CSS/JavaScript/jQuery and is used to create an address book.
 
-## Description
+## Installation
 
-A web application that takes a contact information from a user and returns an address book of all of their contacts' information.
+* `git clone https://github.com/jaredbeckler/addressbook-finale` this repository
+* Change into the new directory
+* Drag `index.html` into a web browser to view the page
+
+## Known Bugs
+
+There are currently no known bugs.
+
+## Support and contact details
+
+If you have any issues, questions, ideas, or concerns contact me through GitHub. If you would like to make a contribution to the code, feel free to do so and notify me by e-mail.
 
 ## Technologies Used
 
 * HTML
 * CSS
-* JavaScript
-* JQuery
-* Atom
-* Terminal
-* Chai
-* Mocha
 * Bootstrap
-* BDD
-
-###Address Book can be viewed at https://github.com/patternandshape/addressBook
+* JavaScript
+* jQuery
 
 ### License
 
-*Licensed under GPL.*
-
-&copy;2016 **Molly Curtin and Jared Beckler**
+Copyright &copy; 2016  |  Jared Beckler  |  Epicodus  |  Portland, OR
